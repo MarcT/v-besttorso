@@ -24507,6 +24507,10 @@
 		"8": {
             "BestTorsoDrawable": 3,
             "BestTorsoTexture": 0
+        },
+		"9": {
+            "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
         }
     },
     "539": { "_comment": "security - jbib_139",
@@ -25296,6 +25300,26 @@
         },
 		"2": {
             "BestTorsoDrawable": 3,
+            "BestTorsoTexture": 0
+        }
+    },
+    "564": { "_comment": "security - jbib_164",
+        "0": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"1": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"2": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        }
+    },
+    "565": { "_comment": "security - jbib_165",
+        "0": {
+            "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
         }
     }
