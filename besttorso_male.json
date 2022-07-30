@@ -17184,8 +17184,424 @@
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
         }
-    }
-    "393": { "_comment": "eclipse_duty - jbib_000",
+    },
+    "393": { "_comment": "sum2 - jbib_000",
+        "0": {
+            "BestTorsoDrawable": 6,
+            "BestTorsoTexture": 0
+        }
+    },
+    "394": { "_comment": "sum2 - jbib_001",
+        "0": {
+            "BestTorsoDrawable": 114,
+            "BestTorsoTexture": 0
+        }
+    },
+    "395": { "_comment": "sum2 - jbib_002",
+        "0": {
+            "BestTorsoDrawable": 6,
+            "BestTorsoTexture": 0
+        }
+    },
+    "396": { "_comment": "sum2 - jbib_003",
+        "0": {
+            "BestTorsoDrawable": 114,
+            "BestTorsoTexture": 0
+        }
+    },
+    "397": { "_comment": "sum2 - jbib_004",
+        "0": {
+            "BestTorsoDrawable": 197,
+            "BestTorsoTexture": 0
+        }
+    },
+    "398": { "_comment": "sum2 - jbib_005",
+        "0": {
+            "BestTorsoDrawable": 6,
+            "BestTorsoTexture": 0
+        }
+    },
+    "399": { "_comment": "sum2 - jbib_006",
+        "0": {
+            "BestTorsoDrawable": 114,
+            "BestTorsoTexture": 0
+        }
+    },
+    "400": { "_comment": "sum2 - jbib_007",
+        "0": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        }
+    },
+    "401": { "_comment": "sum2 - jbib_008",
+        "0": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        }
+    },
+    "402": { "_comment": "sum2 - jbib_009",
+        "0": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"1": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"2": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"3": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"4": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"5": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"6": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"7": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"8": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"9": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"10": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"11": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"12": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"13": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        }
+    },
+    "403": { "_comment": "sum2 - jbib_010",
+        "0": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"1": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"2": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"3": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"4": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"5": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"6": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"7": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"8": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"9": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"10": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"11": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"12": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"13": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        }
+    },
+    "404": { "_comment": "sum2 - jbib_011",
+        "0": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "2": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "3": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "4": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "5": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "6": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "7": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "8": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "9": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "10": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "11": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "12": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "13": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "14": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "15": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "16": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "17": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "18": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "19": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "20": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "21": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "22": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "23": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "24": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "25": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        }
+    },
+    "405": { "_comment": "sum2 - jbib_012",
+        "0": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "1": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "2": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "3": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "4": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "5": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "6": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "7": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "8": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "9": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "10": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "11": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "12": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "13": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "14": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "15": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "16": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "17": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "18": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "19": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        }
+    },
+    "406": { "_comment": "sum2 - jbib_013",
+        "0": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        }
+    },
+    "407": { "_comment": "sum2 - jbib_014",
+        "0": {
+            "BestTorsoDrawable": 1,
+            "BestTorsoTexture": 0
+        }
+    },
+    "408": { "_comment": "sum2 - jbib_015",
+        "0": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"1": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"2": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        }
+    },
+    "409": { "_comment": "sum2 - jbib_016",
+        "0": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"1": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+		"2": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        }
+    },
+    "410": { "_comment": "sum2 - jbib_017",
+        "0": {
+            "BestTorsoDrawable": 6,
+            "BestTorsoTexture": 0
+        }
+    },
+    "411": { "_comment": "sum2 - jbib_018",
+        "0": {
+            "BestTorsoDrawable": 6,
+            "BestTorsoTexture": 0
+        }
+    },
+    "412": { "_comment": "sum2 - jbib_019",
+        "0": {
+            "BestTorsoDrawable": 114,
+            "BestTorsoTexture": 0
+        }
+    },
+    "413": { "_comment": "eclipse_duty - jbib_000",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17215,7 +17631,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "394": { "_comment": "eclipse_duty - jbib_001",
+    "414": { "_comment": "eclipse_duty - jbib_001",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17265,7 +17681,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "395": { "_comment": "eclipse_duty - jbib_002",
+    "415": { "_comment": "eclipse_duty - jbib_002",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17291,7 +17707,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "396": { "_comment": "eclipse_duty - jbib_003",
+    "416": { "_comment": "eclipse_duty - jbib_003",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17325,7 +17741,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "397": { "_comment": "eclipse_duty - jbib_004",
+    "417": { "_comment": "eclipse_duty - jbib_004",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17355,7 +17771,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "398": { "_comment": "eclipse_duty - jbib_005",
+    "418": { "_comment": "eclipse_duty - jbib_005",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17405,7 +17821,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "399": { "_comment": "eclipse_duty - jbib_006",
+    "419": { "_comment": "eclipse_duty - jbib_006",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17423,7 +17839,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "400": { "_comment": "eclipse_duty - jbib_007",
+    "420": { "_comment": "eclipse_duty - jbib_007",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17445,7 +17861,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "401": { "_comment": "eclipse_duty - jbib_008",
+    "421": { "_comment": "eclipse_duty - jbib_008",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17479,7 +17895,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "402": { "_comment": "eclipse_duty - jbib_009",
+    "422": { "_comment": "eclipse_duty - jbib_009",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17509,7 +17925,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "403": { "_comment": "eclipse_duty - jbib_010",
+    "423": { "_comment": "eclipse_duty - jbib_010",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17551,7 +17967,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "404": { "_comment": "eclipse_duty - jbib_011",
+    "424": { "_comment": "eclipse_duty - jbib_011",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17561,7 +17977,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "405": { "_comment": "eclipse_duty - jbib_012",
+    "425": { "_comment": "eclipse_duty - jbib_012",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17571,7 +17987,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "406": { "_comment": "eclipse_duty - jbib_013",
+    "426": { "_comment": "eclipse_duty - jbib_013",
         "0": {
             "BestTorsoDrawable": 11,
             "BestTorsoTexture": 0
@@ -17601,7 +18017,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "407": { "_comment": "eclipse_duty - jbib_014",
+    "427": { "_comment": "eclipse_duty - jbib_014",
         "0": {
             "BestTorsoDrawable": 11,
             "BestTorsoTexture": 0
@@ -17619,7 +18035,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "408": { "_comment": "eclipse_duty - jbib_015",
+    "428": { "_comment": "eclipse_duty - jbib_015",
         "0": {
             "BestTorsoDrawable": 11,
             "BestTorsoTexture": 0
@@ -17637,7 +18053,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "409": { "_comment": "eclipse_duty - jbib_016",
+    "429": { "_comment": "eclipse_duty - jbib_016",
         "0": {
             "BestTorsoDrawable": 11,
             "BestTorsoTexture": 0
@@ -17663,7 +18079,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "410": { "_comment": "eclipse_duty - jbib_017",
+    "430": { "_comment": "eclipse_duty - jbib_017",
         "0": {
             "BestTorsoDrawable": 11,
             "BestTorsoTexture": 0
@@ -17709,7 +18125,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "411": { "_comment": "eclipse_duty - jbib_018",
+    "431": { "_comment": "eclipse_duty - jbib_018",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
@@ -17743,7 +18159,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "412": { "_comment": "eclipse_duty - jbib_019",
+    "432": { "_comment": "eclipse_duty - jbib_019",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
@@ -17753,13 +18169,13 @@
             "BestTorsoTexture": 0
         }
     },
-    "413": { "_comment": "eclipse_duty - jbib_020",
+    "433": { "_comment": "eclipse_duty - jbib_020",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
         }
     },
-    "414": { "_comment": "eclipse_duty - jbib_021",
+    "434": { "_comment": "eclipse_duty - jbib_021",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -17777,7 +18193,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "415": { "_comment": "eclipse_duty - jbib_022",
+    "435": { "_comment": "eclipse_duty - jbib_022",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17787,7 +18203,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "416": { "_comment": "eclipse_duty - jbib_023",
+    "436": { "_comment": "eclipse_duty - jbib_023",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
@@ -17821,19 +18237,19 @@
             "BestTorsoTexture": 0
         }
     },
-    "417": { "_comment": "eclipse_duty - jbib_024",
+    "437": { "_comment": "eclipse_duty - jbib_024",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
         }
     },
-    "418": { "_comment": "eclipse_duty - jbib_025",
+    "438": { "_comment": "eclipse_duty - jbib_025",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
         }
     },
-    "419": { "_comment": "eclipse_duty - jbib_026",
+    "439": { "_comment": "eclipse_duty - jbib_026",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
@@ -17855,13 +18271,13 @@
             "BestTorsoTexture": 0
         }
     },
-    "420": { "_comment": "eclipse_duty - jbib_027",
+    "440": { "_comment": "eclipse_duty - jbib_027",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
         }
     },
-    "421": { "_comment": "eclipse_duty - jbib_028",
+    "441": { "_comment": "eclipse_duty - jbib_028",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -17879,7 +18295,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "422": { "_comment": "eclipse_duty - jbib_029",
+    "442": { "_comment": "eclipse_duty - jbib_029",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17889,7 +18305,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "423": { "_comment": "eclipse_duty - jbib_030",
+    "443": { "_comment": "eclipse_duty - jbib_030",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
@@ -17903,7 +18319,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "424": { "_comment": "eclipse_duty - jbib_031",
+    "444": { "_comment": "eclipse_duty - jbib_031",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -17925,7 +18341,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "425": { "_comment": "eclipse_duty - jbib_032",
+    "445": { "_comment": "eclipse_duty - jbib_032",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
@@ -17971,7 +18387,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "426": { "_comment": "eclipse_duty - jbib_033",
+    "446": { "_comment": "eclipse_duty - jbib_033",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
@@ -18001,7 +18417,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "427": { "_comment": "eclipse_duty - jbib_034",
+    "447": { "_comment": "eclipse_duty - jbib_034",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
@@ -18031,7 +18447,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "428": { "_comment": "eclipse_duty - jbib_035",
+    "448": { "_comment": "eclipse_duty - jbib_035",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -18061,7 +18477,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "429": { "_comment": "eclipse_duty - jbib_036",
+    "449": { "_comment": "eclipse_duty - jbib_036",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -18115,7 +18531,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "430": { "_comment": "eclipse_duty - jbib_037",
+    "450": { "_comment": "eclipse_duty - jbib_037",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -18149,7 +18565,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "431": { "_comment": "eclipse_duty - jbib_038",
+    "451": { "_comment": "eclipse_duty - jbib_038",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -18183,7 +18599,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "432": { "_comment": "eclipse_duty - jbib_039",
+    "452": { "_comment": "eclipse_duty - jbib_039",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -18221,7 +18637,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "433": { "_comment": "eclipse_duty - jbib_040",
+    "453": { "_comment": "eclipse_duty - jbib_040",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -18267,7 +18683,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "434": { "_comment": "eclipse_duty - jbib_041",
+    "454": { "_comment": "eclipse_duty - jbib_041",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -18317,7 +18733,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "435": { "_comment": "eclipse_duty - jbib_042",
+    "455": { "_comment": "eclipse_duty - jbib_042",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -18327,7 +18743,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "436": { "_comment": "eclipse_duty - jbib_043",
+    "456": { "_comment": "eclipse_duty - jbib_043",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -18337,7 +18753,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "437": { "_comment": "eclipse_duty - jbib_044",
+    "457": { "_comment": "eclipse_duty - jbib_044",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -18347,7 +18763,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "438": { "_comment": "eclipse_duty - jbib_045",
+    "458": { "_comment": "eclipse_duty - jbib_045",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
@@ -18365,7 +18781,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "439": { "_comment": "eclipse_duty - jbib_046",
+    "459": { "_comment": "eclipse_duty - jbib_046",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -18379,7 +18795,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "440": { "_comment": "eclipse_duty - jbib_047",
+    "460": { "_comment": "eclipse_duty - jbib_047",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -18393,7 +18809,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "441": { "_comment": "eclipse_duty - jbib_048",
+    "461": { "_comment": "eclipse_duty - jbib_048",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -18407,13 +18823,13 @@
             "BestTorsoTexture": 0
         }
     },
-    "442": { "_comment": "eclipse_duty - jbib_049",
+    "462": { "_comment": "eclipse_duty - jbib_049",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
         }
     },
-    "443": { "_comment": "eclipse_duty - jbib_050",
+    "463": { "_comment": "eclipse_duty - jbib_050",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -18443,7 +18859,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "444": { "_comment": "eclipse_duty - jbib_051",
+    "464": { "_comment": "eclipse_duty - jbib_051",
         "0": {
             "BestTorsoDrawable": 11,
             "BestTorsoTexture": 0
@@ -18473,13 +18889,13 @@
             "BestTorsoTexture": 0
         }
     },
-    "445": { "_comment": "eclipse_duty - jbib_052",
+    "465": { "_comment": "eclipse_duty - jbib_052",
         "0": {
             "BestTorsoDrawable": 15,
             "BestTorsoTexture": 0
         }
     },
-    "446": { "_comment": "eclipse_duty - jbib_053",
+    "466": { "_comment": "eclipse_duty - jbib_053",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
@@ -18501,7 +18917,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "447": { "_comment": "eclipse_duty - jbib_054",
+    "467": { "_comment": "eclipse_duty - jbib_054",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
@@ -18515,7 +18931,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "448": { "_comment": "eclipse_duty - jbib_055",
+    "468": { "_comment": "eclipse_duty - jbib_055",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
@@ -18545,7 +18961,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "449": { "_comment": "eclipse_duty - jbib_056",
+    "469": { "_comment": "eclipse_duty - jbib_056",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -18555,13 +18971,13 @@
             "BestTorsoTexture": 0
         }
     },
-    "450": { "_comment": "eclipse_duty - jbib_057",
+    "470": { "_comment": "eclipse_duty - jbib_057",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
         }
     },
-    "451": { "_comment": "eclipse_duty - jbib_058",
+    "471": { "_comment": "eclipse_duty - jbib_058",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
@@ -18575,13 +18991,13 @@
             "BestTorsoTexture": 0
         }
     },
-    "452": { "_comment": "eclipse_duty - jbib_059",
+    "472": { "_comment": "eclipse_duty - jbib_059",
         "0": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
         }
     },
-    "453": { "_comment": "eclipse_civ - jbib_000",
+    "473": { "_comment": "eclipse_civ - jbib_000",
         "0": {
             "BestTorsoDrawable": 184,
             "BestTorsoTexture": 0
@@ -18603,7 +19019,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "454": { "_comment": "eclipse_civ - jbib_001",
+    "474": { "_comment": "eclipse_civ - jbib_001",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -18673,7 +19089,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "455": { "_comment": "eclipse_civ - jbib_002",
+    "475": { "_comment": "eclipse_civ - jbib_002",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -18751,7 +19167,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "456": { "_comment": "eclipse_civ - jbib_003",
+    "476": { "_comment": "eclipse_civ - jbib_003",
         "0": {
             "BestTorsoDrawable": 1,
             "BestTorsoTexture": 0
@@ -18801,7 +19217,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "457": { "_comment": "eclipse_civ - jbib_004",
+    "477": { "_comment": "eclipse_civ - jbib_004",
         "0": {
             "BestTorsoDrawable": 1,
             "BestTorsoTexture": 0
@@ -18871,7 +19287,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "458": { "_comment": "eclipse_civ - jbib_005",
+    "478": { "_comment": "eclipse_civ - jbib_005",
         "0": {
             "BestTorsoDrawable": 1,
             "BestTorsoTexture": 0
@@ -18893,7 +19309,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "459": { "_comment": "eclipse_civ - jbib_006",
+    "479": { "_comment": "eclipse_civ - jbib_006",
         "0": {
             "BestTorsoDrawable": 1,
             "BestTorsoTexture": 0
@@ -18935,7 +19351,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "460": { "_comment": "eclipse_civ - jbib_007",
+    "480": { "_comment": "eclipse_civ - jbib_007",
         "0": {
             "BestTorsoDrawable": 1,
             "BestTorsoTexture": 0
@@ -18973,7 +19389,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "461": { "_comment": "eclipse_civ - jbib_008",
+    "481": { "_comment": "eclipse_civ - jbib_008",
         "0": {
             "BestTorsoDrawable": 184,
             "BestTorsoTexture": 0
@@ -19039,7 +19455,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "462": { "_comment": "eclipse_civ - jbib_009",
+    "482": { "_comment": "eclipse_civ - jbib_009",
         "0": {
             "BestTorsoDrawable": 2,
             "BestTorsoTexture": 0
@@ -19093,7 +19509,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "463": { "_comment": "eclipse_civ - jbib_010",
+    "483": { "_comment": "eclipse_civ - jbib_010",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -19107,13 +19523,13 @@
             "BestTorsoTexture": 0
         }
     },
-    "464": { "_comment": "eclipse_civ - jbib_011",
+    "484": { "_comment": "eclipse_civ - jbib_011",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
         }
     },
-    "465": { "_comment": "eclipse_civ - jbib_012",
+    "485": { "_comment": "eclipse_civ - jbib_012",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -19123,19 +19539,19 @@
             "BestTorsoTexture": 0
         }
     },
-    "466": { "_comment": "eclipse_civ - jbib_013",
+    "486": { "_comment": "eclipse_civ - jbib_013",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
         }
     },
-    "467": { "_comment": "eclipse_civ - jbib_014",
+    "487": { "_comment": "eclipse_civ - jbib_014",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
         }
     },
-    "468": { "_comment": "eclipse_civ - jbib_015",
+    "488": { "_comment": "eclipse_civ - jbib_015",
         "0": {
             "BestTorsoDrawable": 1,
             "BestTorsoTexture": 0
@@ -19177,7 +19593,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "469": { "_comment": "eclipse_civ - jbib_016",
+    "489": { "_comment": "eclipse_civ - jbib_016",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -19207,7 +19623,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "470": { "_comment": "eclipse_civ - jbib_017",
+    "490": { "_comment": "eclipse_civ - jbib_017",
         "0": {
             "BestTorsoDrawable": 2,
             "BestTorsoTexture": 0
@@ -19225,7 +19641,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "471": { "_comment": "eclipse_civ - jbib_018",
+    "491": { "_comment": "eclipse_civ - jbib_018",
         "0": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
@@ -19251,7 +19667,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "472": { "_comment": "eclipse_civ - jbib_019",
+    "492": { "_comment": "eclipse_civ - jbib_019",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
@@ -19273,7 +19689,7 @@
             "BestTorsoTexture": 0
         }
     },
-    "473": { "_comment": "eclipse_civ - jbib_020",
+    "493": { "_comment": "eclipse_civ - jbib_020",
         "0": {
             "BestTorsoDrawable": 6,
             "BestTorsoTexture": 0
@@ -19291,13 +19707,13 @@
             "BestTorsoTexture": 0
         }
     },
-    "474": { "_comment": "eclipse_civ - jbib_021",
+    "494": { "_comment": "eclipse_civ - jbib_021",
         "0": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
         }
     },
-    "475": { "_comment": "eclipse_civ - jbib_022",
+    "495": { "_comment": "eclipse_civ - jbib_022",
         "0": {
             "BestTorsoDrawable": 2,
             "BestTorsoTexture": 0
@@ -19320,6 +19736,454 @@
         },
 		"5": {
             "BestTorsoDrawable": 2,
+            "BestTorsoTexture": 0
+        }
+    },
+    "496": { "_comment": "eclipse_civ - jbib_023",
+        "0": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"1": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"2": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"3": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"4": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"5": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"6": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"7": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        }
+    },
+    "497": { "_comment": "eclipse_civ - jbib_024",
+        "0": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"1": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"2": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"3": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"4": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"5": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"6": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"7": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"8": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"9": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"10": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"11": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"12": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"13": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        }
+    },
+    "498": { "_comment": "eclipse_civ - jbib_025",
+        "0": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"1": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"2": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"3": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"4": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"5": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"6": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"7": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"8": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"9": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"10": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"11": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"12": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"13": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"14": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"15": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"16": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"17": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"18": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"19": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"20": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"21": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"22": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        }
+    },
+    "499": { "_comment": "eclipse_civ - jbib_026",
+        "0": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"1": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"2": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"3": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"4": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"5": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"6": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"7": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"8": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"9": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"10": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"11": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"12": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"13": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"14": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"15": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"16": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"17": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"18": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"19": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"20": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"21": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"22": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        }
+    },
+    "500": { "_comment": "eclipse_civ - jbib_027",
+        "0": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"1": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"2": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"3": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"4": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"5": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"6": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"7": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"8": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"9": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"10": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"11": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"12": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"13": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"14": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"15": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"16": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"17": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"18": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        }
+    },
+    "501": { "_comment": "eclipse_civ - jbib_028",
+        "0": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"1": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"2": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"3": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"4": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"5": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"6": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"7": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"8": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"9": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"10": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"11": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"12": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"13": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"14": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"15": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"16": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"17": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"18": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"19": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"20": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+		"21": {
+            "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
         }
     }
