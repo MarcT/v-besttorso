@@ -20293,10 +20293,6 @@
         "7": {
             "BestTorsoDrawable": 3,
             "BestTorsoTexture": 0
-        },
-        "8": {
-            "BestTorsoDrawable": 3,
-            "BestTorsoTexture": 0
         }
     },
     "464": { "_comment": "eclipse_duty - jbib_024",
@@ -20357,6 +20353,14 @@
             "BestTorsoTexture": 0
         },
         "4": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+        "5": {
+            "BestTorsoDrawable": 14,
+            "BestTorsoTexture": 0
+        },
+        "6": {
             "BestTorsoDrawable": 14,
             "BestTorsoTexture": 0
         }
@@ -21243,6 +21247,10 @@
             "BestTorsoTexture": 0
         },
         "2": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+        "3": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
         }
