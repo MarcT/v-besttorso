@@ -17837,10 +17837,6 @@
 		"3": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
-        },
-		"4": {
-            "BestTorsoDrawable": 4,
-            "BestTorsoTexture": 0
         }
     },
     "420": { "_comment": "eclipse_duty - jbib_007",
@@ -17861,6 +17857,10 @@
             "BestTorsoTexture": 0
         },
 		"4": {
+            "BestTorsoDrawable": 4,
+            "BestTorsoTexture": 0
+        },
+		"5": {
             "BestTorsoDrawable": 4,
             "BestTorsoTexture": 0
         }
