@@ -21125,6 +21125,14 @@
         "15": {
             "BestTorsoDrawable": 0,
             "BestTorsoTexture": 0
+        },
+        "16": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
+        },
+        "17": {
+            "BestTorsoDrawable": 0,
+            "BestTorsoTexture": 0
         }
     },
     "494": { "_comment": "eclipse_duty - jbib_054",
